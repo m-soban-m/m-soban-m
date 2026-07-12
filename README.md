@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Soban Mansoor</h1>
-<h3 align="center">I am a **Software Engineering undergraduate student** passionate about building practical software solutions, exploring modern technologies, and continuously improving my development skills. My main interests revolve around **Software Development, Artificial Intelligence, Machine Learning, Desktop Applications, Databases, Game Development, and System Design**. I enjoy transforming ideas into functional applications and learning how different layers of software systems work together — from user interfaces and databases to algorithms and backend logic.</h3>
+<h3 align="center">I am a Software Engineering undergraduate student passionate about building practical software solutions, exploring modern technologies, and continuously improving my development skills. My main interests revolve around Software Development, Artificial Intelligence, Machine Learning, Desktop Applications, Databases, Game Development, and System Design. I enjoy transforming ideas into functional applications and learning how different layers of software systems work together — from user interfaces and databases to algorithms and backend logic.</h3>
 
-- 🌱 I’m currently learning **Software Development, AI/ML, and Cyber**
+- 🌱 I’m currently learning Software Development, AI/ML, and Cyber
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
